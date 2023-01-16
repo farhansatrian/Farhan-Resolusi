@@ -1,4 +1,7 @@
 Yang Akan Aku Pelajari di 2023
 -Android Development
+  *Flutter
+  *Kotlin
 -Kotlin
+-Vue JS
 -Laravel

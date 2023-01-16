@@ -1,4 +1,5 @@
 Yang Akan Aku Pelajari di 2023
 -Android Development
--Kotlin
+  *Kotlin Language
+-React JS
 -Laravel
